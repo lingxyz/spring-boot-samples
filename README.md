@@ -19,7 +19,7 @@ Spring boot sample cases.
 
 ## database
 - `❌` [spring-boot-mybatis](spring-boot-mybatis)
-- `✅` [spring-boot-mybatis-plus](spring-boot-mybatis-plus)
+- `❌` [spring-boot-mybatis-plus](spring-boot-mybatis-plus)
 - `❌` [spring-boot-jpa](spring-boot-jpa)
 - `❌` [spring-boot-redis](spring-boot-redis)
 - `❌` [spring-boot-elasticsearch](spring-boot-elasticsearch)
@@ -50,7 +50,7 @@ Spring boot sample cases.
 - `❌` [spring-boot-hotreplace](spring-boot-hotreplace)
 - `❌` [spring-boot-docker](spring-boot-docker)
 - `❌` [spring-boot-kubernetes](spring-boot-kubernetes)
-- `❌` [spring-boot-shell](spring-boot-shell)
+- `✅` [spring-boot-shell](spring-boot-shell)
 - `❌` [spring-boot-jenkins](spring-boot-jenkins)
 
 # 数据应用
