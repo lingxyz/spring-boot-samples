@@ -12,6 +12,7 @@ Spring boot sample cases.
 
 ## REST
 - `❌` [spring-boot-rest-template](spring-boot-rest-template)
+- `❌` [spring-boot-hystrix](spring-boot-hystrix)
 
 ## queue
 - `❌` [spring-boot-rabbitmq](spring-boot-rabbitmq)
@@ -22,7 +23,7 @@ Spring boot sample cases.
 - `❌` [spring-boot-mybatis-plus](spring-boot-mybatis-plus)
 - `❌` [spring-boot-jpa](spring-boot-jpa)
 - `❌` [spring-boot-redis](spring-boot-redis)
-- `❌` [spring-boot-elasticsearch](spring-boot-elasticsearch)
+- `✅` [spring-boot-easy-es](spring-boot-easy-es)
 - `❌` [spring-boot-clickhouse](spring-boot-clickhouse)
 - `❌` [spring-boot-neo4j](spring-boot-neo4j)
 
